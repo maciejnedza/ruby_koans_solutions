@@ -1,4 +1,4 @@
-ruby_koans_solutions
+Ruby Koans Solutions
 ====================
 
-My solutions to Ruby Koans
+My solutions to Ruby Koans.
